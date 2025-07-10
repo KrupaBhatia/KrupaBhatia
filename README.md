@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Developer | Node.js | React | SQL | AWS
 
-I'm a passionate Full Stack Engineer with over 2.5 years of experience in building scalable backend services and interactive dashboards. I've worked across industries including e-commerce, media, and procurement, delivering robust solutions with real-time performance and seamless API integrations.
+I'm a passionate Full Stack Engineer with over 3+ years of experience in building scalable backend services and interactive dashboards. I've worked across industries including e-commerce, media, and procurement, delivering robust solutions with real-time performance and seamless API integrations.
 
 ---
 
